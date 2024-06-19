@@ -343,7 +343,7 @@
 
 .footer {
   box-sizing: border-box;
-  background-color: #000000;
+  background-color: #1f1f1f;
   padding: 60px 80px;
   color: #ffffff;
 }
@@ -384,7 +384,7 @@
 }
 
 .footer__column-link {
-  color: white;
+  color: #f2f2f2;
   text-decoration: none;
   display: flex;
   align-items: center;
