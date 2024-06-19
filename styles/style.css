@@ -315,13 +315,11 @@
   margin: 100px 0 0;
   display: flex;
   justify-content: center;
-  column-gap: 0;
-  /* Adicione estilos */
+  column-gap: 40px;
 }
 
 .step {
   flex-basis: 220px;
-  margin: 40px;
 }
 
 .step__title {
