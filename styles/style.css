@@ -315,13 +315,13 @@
   margin: 100px 0 0;
   display: flex;
   justify-content: center;
+  column-gap: 0;
   /* Adicione estilos */
 }
 
 .step {
-  flex-basis: 200px;
+  flex-basis: 220px;
   margin: 40px;
-  /* Adicione estilos */
 }
 
 .step__title {
@@ -345,7 +345,7 @@
   box-sizing: border-box;
   background-color: #000000;
   padding: 60px 80px;
-  color: #fff;
+  color: #ffffff;
 }
 
 .footer__columns {
